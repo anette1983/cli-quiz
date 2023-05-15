@@ -1,5 +1,5 @@
 # cli-quiz
- 🦄🌈A fancy cli quiz app using node.js
+ <h2>🦄🌈A fancy CLI quiz app using Node.js.</h2>
  
  ## 💼 Used packages
 chalk | inquirer | gradient-string | chalk-animation | figlet | nanospinner
